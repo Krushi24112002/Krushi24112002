@@ -49,11 +49,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="65"/><img
 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="65"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="60" height="65"/><img
-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="65"/><img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png"                         alt="Angular"width="60"height="65"/<img
-
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="65"/><img                 
 src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" alt="React" width="60" height="65"/><img
-src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="65"/>
+src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="65"/><img
+src="https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png" alt="css3" width="60" height="65"/>                                                                                                                                       
 
 
 ## Contact Me ☎️
