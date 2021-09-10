@@ -52,7 +52,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="65"/><img                 
 src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" alt="React" width="60" height="65"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="65"/><img
-src="https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png" alt="css3" width="60" height="65"/>                                                                                                                                       
+src="https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png" alt="css3" width="60" height="65"/><img                                 src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" alt="JavaScript" width="60" height="65"/>                                                                                                      
 
 
 ## Contact Me ☎️
