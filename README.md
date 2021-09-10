@@ -70,7 +70,7 @@ Thanks!! ✌️
 
 
 <a href="https://github.com/Krushi24112002/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vrindagupta6828&show_icons=true&theme=radical&count_private=true" alt="KRUSHI MONPARA github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&theme=radical&count_private=true" alt="KRUSHI MONPARA github stats" />
 </a>
 <br />
 <br />
