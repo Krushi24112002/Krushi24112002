@@ -70,10 +70,11 @@ Thanks!! ✌️
 
 
 <a href="https://github.com/Krushi24112002/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&theme=radical&count_private=true" alt="Krushi Monpara github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vrindagupta6828&show_icons=true&theme=radical&count_private=true" alt="KRUSHI MONPARA github stats" />
 </a>
 <br />
 <br />
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/krushi-monpara-753826201/" target="blank"><img align="center" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="Krushi24112002" height="47" width="47" /></a>
