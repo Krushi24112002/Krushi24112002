@@ -65,7 +65,7 @@ Thanks!! ✌️
 <!--
 <a href=https://github-readme-stats.vercel.app">
 -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact" alt="Krushi24112002" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&langs_count=8" alt="Krushi24112002" />
  </a>
 
 
