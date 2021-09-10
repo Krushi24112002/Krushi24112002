@@ -76,6 +76,6 @@ Thanks!! ✌️
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/krushi-monpara-753826201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vrindagupta6828" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/krushi-monpara-753826201/" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.Cverxr-lN_3QjtMAqJFQYwHaEK&pid=Api&P=0&w=269&h=152" alt="vrindagupta6828" height="30" width="30" /></a>
 </p>
 
