@@ -38,7 +38,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 - 🌱 I’m currently learning various Web Development Technology.
 - 💬 Ask me about anything, I am happy to help;
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Krushi24112002 /Krushi24112002 /master/assest/coder.gif" alt="codergif" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Krushi24112002/Krushi24112002/master/assest/coder.gif" alt="codergif" /> </p>
 
 ## Languages and Tools  
 
