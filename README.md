@@ -58,7 +58,7 @@ src="https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/0
 ## Contact Me ☎️
 
 * Mail me on [Gmail](krushimonpara24@gmail.com) 
-* Connect me on [LinkedIn]("https://www.linkedin.com/in/krushi-monpara-753826201/")
+* Connect me on [LinkedIn](https://www.linkedin.com/in/krushi-monpara-753826201/)
 
 Thanks!! ✌️
 
