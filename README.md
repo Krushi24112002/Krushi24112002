@@ -58,7 +58,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-
 ## Contact Me ☎️
 
 * Mail me on [Gmail](krushimonpara24@gmail.com) 
-* Connect me on [LinkedIn](linkedin.com/in/krushi-monpara-753826201)
+* Connect me on [LinkedIn](www.linkedin.com/in/krushi-monpara-753826201)
 
 Thanks!! ✌️
 
