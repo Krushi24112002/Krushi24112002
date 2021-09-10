@@ -76,6 +76,7 @@ Thanks!! ✌️
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/krushi-monpara-753826201/" target="blank"><img align="center" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="vrindagupta6828" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/krushi-monpara-753826201/" target="blank"><img align="center" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="Krushi24112002" height="40" width="40" /></a>
+<a href="krushimonpara24@gmail.com" target="blank"><img align="center" src="https://webstockreview.net/images/mail-clipart-vector-icon-13.png" alt="Krushi24112002" height="40" width="40" /></a>
 </p>
 
