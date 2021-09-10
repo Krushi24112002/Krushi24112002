@@ -43,7 +43,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 
 ## Languages and Tools  
 
-<img src="http://www.w3.org/2000/svg" alt="github" width="60" height="65"/><img 
+<img src="file:///C:/Users/ASUS/Downloads/github.svg" alt="github" width="60" height="65"/><img 
 src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="60" height="65"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="65"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="65"/><img
