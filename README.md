@@ -55,7 +55,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-
 src="https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png" alt="css3" width="60" height="65"/><img                                 src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" alt="JavaScript" width="60" height="65"/><img
 src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="NodeJS" width="60" height="65"/><img
 src="https://doc.octoperf.com/monitoring/create-connection/mongodb/img/mongodb-logo.png" alt="MongoDB" width="60" heigh="65"/><img
-src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png" alt="ExpressJS" width="60" height="65"/>                                                                                                                                   
+src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png" alt="ExpressJS" width="60" height="65"/><img
+src="https://download.logo.wine/logo/Vue.js/Vue.js-Logo.wine.png" alt="view" width="60" height="65"/>                                                                                                                               
 
 
 ## Contact Me ☎️
