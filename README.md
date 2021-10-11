@@ -59,7 +59,7 @@ src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png
 src="https://download.logo.wine/logo/Vue.js/Vue.js-Logo.wine.png" alt="view" width="60" height="65"/><img
 src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png" alt="docker" width="60" height="65"/><img
 src="http://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_logo_AWS.png" alt="AWS" width="60" height="65"/><img
-src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evolution-history-and-meaning-png-1280x720.png" alt="Google Cloud" width"60" height"65"/>                                                                                                                                    
+src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evolution-history-and-meaning-png-1280x720.png" alt="Google Cloud" width="60" height="65"/>                                                                                                                                    
 
 
 ## Contact Me ☎️
