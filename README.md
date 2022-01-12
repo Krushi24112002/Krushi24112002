@@ -70,9 +70,7 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 Thanks!! ✌️
 
-<!--
-<a href=https://github-readme-stats.vercel.app">
--->
+![midnight-purple][midnight-purple] | `calm` ![calm][calm] | `flag-india` ![flag-india][flag-india] |
  
 
 
