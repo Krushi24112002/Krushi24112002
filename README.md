@@ -69,9 +69,9 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 * Connect me on [LinkedIn](https://www.linkedin.com/in/krushi-monpara-753826201/)
 
 Thanks!! ✌️
-
-![midnight-purple][midnight-purple] | `calm` ![calm][calm] | `flag-india` ![flag-india][flag-india] |
- 
+<p align="center">
+<img src = " https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple " >
+ </p>
 
 
 <p align="center">
