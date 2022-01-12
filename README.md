@@ -69,9 +69,7 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 * Connect me on [LinkedIn](https://www.linkedin.com/in/krushi-monpara-753826201/)
 
 Thanks!! ✌️
-<a href="https://github.com/Krushi24112002/github-readme-stats">
-  <img align="center" src=" https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="Krushi Monpara Status" />
-</a>
+
 
 
 <p align="center">
