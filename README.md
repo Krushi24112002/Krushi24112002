@@ -85,6 +85,6 @@ Thanks!! ✌️
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/krushi-monpara-k24112002" target="blank"><img align="center" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="Krushi24112002" height="47" width="47" /></a>
+<a href="https://www.linkedin.com/in/krushi-monpara-k24112002" target="blank"><img align="center" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="Krushi24112002" height="47" width="47"/></a>
 </p>
 
