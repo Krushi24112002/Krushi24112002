@@ -70,6 +70,13 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 Thanks!! ✌️
 
+<a href="https://github.com/Krushi24112002/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krushi24112002&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/Krushi24112002/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krushi24112002&repo=Krushi24112002.github.io&theme=buefy" />
+</a>
+
 
 
 <p align="center">
