@@ -63,10 +63,9 @@ src="http://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_lo
 src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evolution-history-and-meaning-png-1280x720.png" alt="Google Cloud" width="60" height="65"/>                                                                                                                                    
 
 
-## Contact Me ☎️
-
-* Mail me on [Krushimonpara24@gmail.com](krushimonpara24@gmail.com) 
-* Connect me on [LinkedIn](https://www.linkedin.com/in/krushi-monpara-753826201/)
+# 📫 How to reach me : #
+### 💌Mail me [Krushimonpara24@gmail.com]()
+### 📞Call ME [9510428423]()
 
 Thanks!! ✌️
 
