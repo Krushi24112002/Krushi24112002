@@ -68,7 +68,9 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 ### 📞Call ME [9510428423]()
 
 # Social Media #
-[![Linkedin]([![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jwalit21/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/krushi-monpara-k24112002)
+
+
 
 
 Thanks!! ✌️
