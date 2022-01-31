@@ -67,11 +67,11 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 ### 💌Mail me [Krushimonpara24@gmail.com]()
 ### 📞Call ME [9510428423]()
 
-# Social Media #
+# Social Media : #
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krushi-monpara-k24112002/)
 
 
-#### Thanks for visiting:
+# Thanks for visiting : #
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Krushi24112002/count.svg" />
