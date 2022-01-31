@@ -65,7 +65,7 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 ## Contact Me ☎️
 
-* Mail me on [Gmail](krushimonpara24@gmail.com) 
+* Mail me on [Krushimonpara24@gmail.com](krushimonpara24@gmail.com) 
 * Connect me on [LinkedIn](https://www.linkedin.com/in/krushi-monpara-753826201/)
 
 Thanks!! ✌️
