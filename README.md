@@ -71,15 +71,15 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krushi-monpara-k24112002/)
 
 
-
-
-Thanks!! ✌️
-
-
-
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/krushi-monpara-k24112002" target="blank"><img align="center" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="Krushi24112002" height="47" width="47"/></a>
+#### Thanks for visiting:
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Krushi24112002/count.svg" />
 </p>
+
+
+
+
+
+
 
