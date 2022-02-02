@@ -66,7 +66,7 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 # Statistics : #
 
-![Jwalit's github stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&theme=tokyonight)
+![KRUSHI MONPARA github stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&theme=tokyonight)
 
 # Most Used Language : #
 
