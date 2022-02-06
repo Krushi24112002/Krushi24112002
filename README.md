@@ -83,7 +83,9 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 # 📫 Connect With Me : #
 ### <a href="mailto:Krushimonpara24@gmail.com"><img align="left" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
+
 ### <a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank" ><img align="left" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+
 ### 📞Call ME [9510428423]()
 
 
