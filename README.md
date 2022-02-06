@@ -82,7 +82,7 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 
 # 📫 How to reach me : #
-### 💌Mail me [Krushimonpara24@gmail.com]()
+### <a href="mailto:Krushimonpara24@gmail.com"><img align="left" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
 ### 📞Call ME [9510428423]()
 
 # Social Media : #
