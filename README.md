@@ -63,6 +63,14 @@ src="http://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_lo
 src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evolution-history-and-meaning-png-1280x720.png" alt="Google Cloud" width="60" height="65"/>
 
 
+ <br><br>
+<img alt="Krushi Monpara's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=Krushi24112002&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
+ </a>
+</p>
+
+<br>
+
+
 
 # Statistics : #
 
