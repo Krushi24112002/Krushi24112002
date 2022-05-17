@@ -82,7 +82,7 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 
 # 📫 Connect With Me : #
-### <a href="mailto:Krushimonpara24@gmail.com"><img align="left" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgmail_281769&psig=AOvVaw1xFrGBPBpEdaKBPmbNt6Gg&ust=1652890331402000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiBgJT25_cCFQAAAAAdAAAAABAD" /></a>
+### <a href="mailto:Krushimonpara24@gmail.com"><img align="left" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
 
 ### <a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank" ><img align="left" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 
