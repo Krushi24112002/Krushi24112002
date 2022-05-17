@@ -86,8 +86,6 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 ### <a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank" ><img align="left" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 
-
-
 # Thanks for visiting : #
 <p align="center"> 
   Visitor count<br>
