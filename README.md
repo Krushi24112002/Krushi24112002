@@ -64,7 +64,7 @@ src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evoluti
 
 
  <br><br>
-[![KRUSHI MONPARA github activity graph](https://activity-graph.herokuapp.com/graph?username=Krushi24112002&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![KRUSHI MONPARA github activity graph](https://activity-graph.herokuapp.com/graph?username=Krushi24112002&theme=chartreuse-dark)](https://github.com/Krushi24112002/github-readme-activity-graph)
  </a>
 </p>
 
