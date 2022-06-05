@@ -41,7 +41,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 - 💬 Ask me about anything, I am happy to help.
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=aditya4478&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4478" />
+    <img align="center" src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" />
 </p>
 
 ## Languages and Tools  
