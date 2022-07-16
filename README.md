@@ -100,7 +100,9 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   <a href="https://github.com/krushi24112002?tab=repositories" title="Show Repositories">🔎 Show More Repository 🔍</a>
 </h4>
 
-# Thanks for visiting : #
+
+<h4 align="center">
+  <a> Thanks For Visiting </a>
 
 <div align="center">
 
