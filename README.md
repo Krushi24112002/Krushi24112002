@@ -89,11 +89,6 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   <a href="https://github.com/krushi24112002?tab=repositories" title="Show Repositories">🔎 Show More Repository 🔍</a>
 </h4>
 
-
-<h2 align="center">
-  <a> Thanks For Visiting </a>
-</h2>
-
 <h1 align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Show+some+Love+by+starring+some+of+the+repositories!;&center=true&size=30">
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!;&center=true&size=30">
    </h1>
