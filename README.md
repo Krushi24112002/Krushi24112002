@@ -45,26 +45,25 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 - 🌱 I’m currently learning Data Structures And Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 
-## Languages and Tools  
-
-<img src="https://maxcdn.icons8.com/Share/icon/p1em/Logos/github1600.png" alt="github" width="60" height="65"/><img 
-src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="65"/><img
-src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="65"/><img
-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="65"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="60" height="65"/><img
-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="65"/><img                 
-src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" alt="React" width="60" height="65"/><img
-src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="65"/><img
-src="https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png" alt="css3" width="60" height="65"/><img                               src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" alt="JavaScript" width="60" height="65"/><img
-src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="NodeJS" width="60" height="65"/><img
-src="https://doc.octoperf.com/monitoring/create-connection/mongodb/img/mongodb-logo.png" alt="MongoDB" width="60" heigh="65"/><img
-src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png" alt="ExpressJS" width="60" height="65"/><img
-src="https://download.logo.wine/logo/Vue.js/Vue.js-Logo.wine.png" alt="view" width="60" height="65"/><img
-src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png" alt="docker" width="60" height="65"/><img
-src="http://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_logo_AWS.png" alt="AWS" width="60" height="65"/><img
-src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evolution-history-and-meaning-png-1280x720.png" alt="Google Cloud" width="60" height="65"/>
-
-
+<hr>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
+      <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
+      
+        </a>
+        </p>
+        </br>
+<h4>Learning</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=go,solidity,aws,kubernetes,googlecloud,tensorflow,flutter,electron,docker" />
+        </a>
+        </p>
+        <hr>
+        
  <br><br>
 [![KRUSHI MONPARA github activity graph](https://activity-graph.herokuapp.com/graph?username=Krushi24112002&theme=chartreuse-dark)](https://github.com/Krushi24112002/github-readme-activity-graph)
  </a>
