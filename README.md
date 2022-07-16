@@ -63,7 +63,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
         </p>
         <hr>
         
-<hr>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
         
