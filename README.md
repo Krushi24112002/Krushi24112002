@@ -63,6 +63,10 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
         </p>
         <hr>
         
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+        
 # Statistics : #
 
 ![KRUSHI MONPARA GitHub stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&tokyonight=dark&show_icons=true)
