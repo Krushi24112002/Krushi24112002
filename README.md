@@ -92,3 +92,9 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 <h1 align="center">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!;&center=true&size=30">
    </h1>
+  
+##  Snake 🐍 Eating My Contribution Graph 
+![snake gif]
+(https://github.com/krushi24112002/krushi24112002/blob/output/github-contribution-grid-snake.gif)
+
+   
