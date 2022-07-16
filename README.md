@@ -52,10 +52,6 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
       <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
-      
-        </a>
-        </p>
-        </br>
         
 <h4>Learning</h4>
 <p align="center">
