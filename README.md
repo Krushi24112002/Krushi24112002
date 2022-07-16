@@ -95,6 +95,6 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   
 ##  Snake 🐍 Eating My Contribution Graph 
 ![snake gif]
-(https://github.com/krushi24112002/krushi24112002/blob/output/github-contribution-grid-snake.gif)
+(https://github.com/Krushi24112002/Krushi24112002/blob/output/github-contribution-grid-snake.gif)
 
    
