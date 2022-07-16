@@ -105,12 +105,11 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   <a> Thanks For Visiting </a>
 </h2>
 
-<div align="center">
-### Show some ❤️ by starring some of the repositories!
-</div>
-
-
-
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=Show + some + ❤️ + by + starring + some + of + the + repositories!;&center=true&size=30">
+         </a>
+   </h1>
 
 
 
