@@ -86,15 +86,6 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Krushi24112002&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-        
-# Statistics : #
-
-![KRUSHI MONPARA GitHub stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&tokyonight=dark&show_icons=true)
-
-# Most Used Language : #
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Krushi24112002&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 
 # 📫 Connect With Me : #
 ### <a href="mailto:Krushimonpara24@gmail.com"><img align="left" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
