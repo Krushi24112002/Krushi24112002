@@ -95,5 +95,5 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 </h2>
 
 <h1 align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines= Show  some  ❤️  by  starring  some  of  the  repositories!;&center=true&size=30">
-</h1>
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+KRUSHI+MONPARA!;&center=true&size=30">
+   </h1>
