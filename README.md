@@ -97,7 +97,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 <hr>
 
 <h4 align="center">
-  <a href="https://github.com/KushalTanna24?tab=repositories" title="Show Repositories">🔎 Show More Repository 🔍</a>
+  <a href="https://github.com/krushi241120024?tab=repositories" title="Show Repositories">🔎 Show More Repository 🔍</a>
 </h4>
 
 # Thanks for visiting : #
