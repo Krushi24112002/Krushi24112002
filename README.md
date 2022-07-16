@@ -87,7 +87,8 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   <img src="https://activity-graph.herokuapp.com/graph?username=Krushi24112002&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-# 📫 Connect With Me : #
+<h2 align="center">⚡ 📫 Connect With Me  ⚡</h2>
+<br>
 ### <a href="mailto:Krushimonpara24@gmail.com"><img align="left" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
 
 ### <a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank" ><img align="left" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" /></a>
