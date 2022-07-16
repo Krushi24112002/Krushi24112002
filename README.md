@@ -101,13 +101,12 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 </h4>
 
 
-<h4 align="center">
+<h2 align="center">
   <a> Thanks For Visiting </a>
+</h2>
 
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
 
