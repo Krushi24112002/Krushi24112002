@@ -94,6 +94,9 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 <a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank" ><img align="center" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" /></a>
 </div>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
 # Thanks for visiting : #
 <p align="center"> 
   Visitor count<br>
