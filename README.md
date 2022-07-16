@@ -92,6 +92,8 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 
 <div align="center">
 <a href="mailto:Krushimonpara24@gmail.com"><img align="center" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
+
+
 <a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank" ><img align="center" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" /></a>
 
 </div>
