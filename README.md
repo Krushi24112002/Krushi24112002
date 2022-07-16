@@ -63,15 +63,6 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
         </p>
         <hr>
         
- <br><br>
-[![KRUSHI MONPARA github activity graph](https://activity-graph.herokuapp.com/graph?username=Krushi24112002&theme=chartreuse-dark)](https://github.com/Krushi24112002/github-readme-activity-graph)
- </a>
-</p>
-
-<br>
-
-
-
 # Statistics : #
 
 ![KRUSHI MONPARA GitHub stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&tokyonight=dark&show_icons=true)
