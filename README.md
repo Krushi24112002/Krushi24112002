@@ -9,7 +9,7 @@ Krushi24112002/Krushi24112002 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
-<h1 align="center">Hi 👋, I'm Krushi Monpara</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Krushi24112002.Krushi24112002">
 <!--
 **Krushi24112002/Krushi24112002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!--
