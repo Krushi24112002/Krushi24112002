@@ -96,20 +96,11 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 </div>
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/Krushi24112002/OOPs In JAVA" title="OOPs In JAVA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=krushi24112002&repo=OOPs In JAVA&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/>
-
 <h4 align="center">
   <a href="https://github.com/KushalTanna24?tab=repositories" title="Show Repositories">🔎 Show More Repository 🔍</a>
 </h4>
 
 # Thanks for visiting : #
-
-
 
 <div align="center">
 
