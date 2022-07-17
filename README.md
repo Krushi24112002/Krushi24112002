@@ -25,9 +25,6 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...   -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Krushi24112002.Krushi24112002)
-<a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
-</a>
 <h1 align="center">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+KRUSHI+MONPARA!;&center=true&size=30">
    </h1>
