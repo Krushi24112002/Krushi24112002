@@ -69,7 +69,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   </div>
   <br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Krushi24112002&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=krushi24112002&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" width="100%"/>
 </p>
 
 <hr>
