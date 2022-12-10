@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Krushi24112002.Krushi24112002)
 <h1 align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+KRUSHI+MONPARA!;&center=true&size=30">
+       < width="1000" height="800" img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+KRUSHI+MONPARA!;&center=true&size=30">
    </h1>
 
 ## Who Am I?
