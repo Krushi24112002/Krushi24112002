@@ -62,6 +62,9 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
        
   <a href="https://github.com/Krushi2412002/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Krushi's github stats" /></a> 
        <a href="https://github.com/Krushi24112002/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact&theme=synthwave&hide_border=true" /></a>
+       <br>
+       </br>
+       <a href="https://streak-stats.demolab.com/?user=Krushi24112002&theme=synthwave&hide_border=true" </a>
        
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=krushi24112002&bg_color=0d1117&color=5acbea&line=5acae9&point=feffff&area_color=0d1117&area=true&hide_border=false" width="100%"/>
@@ -73,6 +76,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 <div align="center">
 <a href="mailto:Krushimonpara24@gmail.com"><img align="center" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
 <a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank" ><img align="center" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" /></a>
+
 </div>
 <hr>
 
