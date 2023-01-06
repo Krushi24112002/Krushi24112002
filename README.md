@@ -62,6 +62,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
   <div align=center>
       <a href="https://github.com/Krushi24112002/github-readme-stats">
              <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Krushi Github Stats" />
+             </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
