@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+KRUSHI+MONPARA!;&center=true&size=30">
    </h1>
 
-## Who Am I?
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Who Am I ....***
 
 I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from S.P.B (Saffrony) Patel Engineering College.
 who loves coding in JAVA along with other General-Purpose Languages like C and Phython.I'm passionate about Web Development, and App Development with an active interest in Data Structures And Algorithms Problem Solving.
