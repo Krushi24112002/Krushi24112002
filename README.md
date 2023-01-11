@@ -34,13 +34,13 @@ Here are some ideas to get you started: -->
 I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from S.P.B (Saffrony) Patel Engineering College.
 who loves coding in JAVA along with other General-Purpose Languages like C and Phython.I'm passionate about Web Development, and App Development with an active interest in Data Structures And Algorithms Problem Solving.
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 👀 I'm Currently Learning Udacity Cloud Architect Using Microsoft Azure.Through Udacity Scholarship.
 - 🔭 I Have Learn Complete Udacity AWS Machine Learning Course.Through Udacity Scholarships. 
 - 🌱 I’m currently learning various Web Development Technology.
 - 🌱 I’m currently learning Data Structures And Algorithms.
 - 💬 Ask me about anything, I am happy to help.
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
