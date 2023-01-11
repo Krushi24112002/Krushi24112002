@@ -40,6 +40,8 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 - 🌱 I’m currently learning Data Structures And Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
