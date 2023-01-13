@@ -62,11 +62,11 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
         
 
 <h2 align="center">⚡ Stats ⚡</h2>
-      <a href="https://github.com/Krushi2412002/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Krushi's github stats" /></a> 
+      <a href="https://github.com/Krushi2412002/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Krushi's github stats" /></a> 
        <br>
-       <a href="https://github.com/Krushi24112002/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact&theme=dark&hide_border=false" /></a>
+       <a href="https://github.com/Krushi24112002/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact&theme=tokyonight&hide_border=false" /></a>
        <br>
-       [![GitHub Streak](https://streak-stats.demolab.com?user=Krushi24112002&theme=synthwave)](https://git.io/streak-stats)
+       [![GitHub Streak](https://streak-stats.demolab.com?user=Krushi24112002&theme=tokyonight)](https://git.io/streak-stats)
        
   <hr>
   <p>
