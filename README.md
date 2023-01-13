@@ -70,7 +70,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
        Activity Graph
         <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
        
-     <br>  
+       
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=krushi24112002&bg_color=0d1117&color=5acbea&line=5acae9&point=feffff&area_color=0d1117&area=true&hide_border=false" width="100%"/>
 </p>
 
