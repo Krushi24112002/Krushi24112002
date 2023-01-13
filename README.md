@@ -71,7 +71,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
        <br>
        <a href="https://github.com/Krushi24112002/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact&theme=synthwave&hide_border=false" /></a>
        
-  <br>
+  
        
   <hr>
   <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
