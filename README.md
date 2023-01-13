@@ -60,22 +60,10 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
         </p>
         <hr>
         
-<hr>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-       
-  <a>
-    <br>
-       </br>
-      <a href="https://github.com/Krushi2412002/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=false" alt="Krushi's github stats" /></a> 
-       <a href="https://github.com/Krushi24112002/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact&theme=synthwave&hide_border=false" /></a>
-       <br>
-       </br>
-       ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krushi24112002&theme=synthwave&hide_border=true)
-       
-  <br>
-  </br>
   
   <hr>
   <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
