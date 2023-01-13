@@ -72,7 +72,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
        
   <br>
        
-  <hr>
+  
   <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
        Activity Graph
         <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
