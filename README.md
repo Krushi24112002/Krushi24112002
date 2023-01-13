@@ -75,6 +75,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krushi24112002&theme=synthwave&hide_border=true)
        
   <br>
+  </br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=krushi24112002&bg_color=0d1117&color=5acbea&line=5acae9&point=feffff&area_color=0d1117&area=true&hide_border=false" width="100%"/>
 </p>
 
