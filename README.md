@@ -68,7 +68,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
        
   
   
-  
+  <hr>
   <p>
   <h2 align="center"> Activity Graph </h2>   
        
