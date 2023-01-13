@@ -66,9 +66,8 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 <p align=center>
        
   <a>
-       <br>
-       </br>
-      <a href="https://github.com/Krushi2412002/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=false" alt="Krushi's github stats" /></a> 
+     ![Krushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&theme=synthwave)
+       
        <a href="https://github.com/Krushi24112002/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact&theme=synthwave&hide_border=false" /></a>
        <br>
        </br>
