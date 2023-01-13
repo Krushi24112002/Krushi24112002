@@ -66,10 +66,12 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
      <a href="https://github.com/abhinandanraj/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact&theme=tokyonight&langs_count=6" /></a>
      <a>
        </a>
+       <br>
+       </br>
      <p align="left">
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Krushi24112002&theme=tokyonight&hide_border=false"/>
        <br>
-       <br>
+       </br>
       
        
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=krushi24112002&bg_color=0d1117&color=5acbea&line=5acae9&point=feffff&area_color=0d1117&area=true&hide_border=false" width="100%"/>
