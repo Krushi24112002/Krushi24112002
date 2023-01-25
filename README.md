@@ -66,7 +66,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krushi24112002&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
 
-![Krushi's github stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Krushi's github stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&title_color=ffc857&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_border=true&hide=issues&count_private=true&include_all_commits=true)
       
 </p>
 
