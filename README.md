@@ -74,6 +74,8 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 
 <br>
 </br>
+<hr>
+<h2 align="center"> 🐍 Snack Eating My Contribution Graph </h2>
 
 
 
