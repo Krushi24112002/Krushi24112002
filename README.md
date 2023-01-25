@@ -69,8 +69,11 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 ![Krushi's github stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&title_color=ffc857&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_border=true&hide=issues&count_private=true&include_all_commits=true)
 
 [![Krushi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Krushi24112002&bg_color=1a1b27&color=52fa64&line=bf57ff&point=0d1117&area=true&hide_border=true&title_color=edce59&area_color=ac72ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-      
+
 </p>
+
+<br>
+
 
 <hr>
 <h2 align="center"> 📫 Connect With Me  </h2>
