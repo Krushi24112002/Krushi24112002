@@ -73,11 +73,6 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 </p>
 
 <hr>
-<h2 align="center"> 🐍 Snack Eating My Contribution Graph </h2>
-
-![snake gif](https://github.com/Krushi24112002/Krushi24112002/blob/output/github-contribution-grid-snake.gif)
-
-<hr>
 <h2 align="center"> 📫 Connect With Me  </h2>
 <div align="center">
 <a href="mailto:Krushimonpara24@gmail.com"><img align="center" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
