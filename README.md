@@ -86,5 +86,5 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
 </h4>
 
 <h1 align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!;&center=true&size=30&color=50f34e">
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!;&center=true&size=30&pause=300&duration=800&color=50f34e">
    </h1>
