@@ -62,11 +62,11 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
         
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Stats & Activity Graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; </h2>
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Krushi24112002&layout=compact&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Krushi's github stats](https://github-readme-stats.vercel.app/api?username=Krushi24112002&show_icons=true&title_color=ffc857&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_border=true&hide=issues&count_private=true&include_all_commits=true)
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 [![Krushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krushi24112002&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
