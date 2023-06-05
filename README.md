@@ -64,7 +64,7 @@ who loves coding in JAVA along with other General-Purpose Languages like C and P
      
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Krushi24112002&layout=compact&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Krushi24112002&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://git.io/streak-stats)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Krushi24112002&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
