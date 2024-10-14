@@ -37,7 +37,7 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/275/datas/original.gif" />
 
-- 👀 I'm Currently Learning Udacity Cloud Architect Using Microsoft Azure.Through Udacity Scholarship.
+- 👀 I Have Learn Complete Udacity Cloud Architect Using Microsoft Azure.Through Udacity Scholarship.
 - 🔭 I Have Learn Complete Udacity AWS Machine Learning Course.Through Udacity Scholarships. 
 - 🌱 I’m currently learning various Web Development Technology.
 - 🌱 I’m currently learning Data Structures And Algorithms.
