@@ -76,9 +76,7 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
   </tr>
 </table>
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Krushi24112002&layout=compact&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Krushi24112002&layout=compact&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Krushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krushi24112002&theme=redical)
 
