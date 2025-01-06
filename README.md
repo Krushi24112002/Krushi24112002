@@ -63,7 +63,6 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
         
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Stats & Activity Graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; </h2>
      
-<table>
   <tr>
     <td>
       <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushi24112002&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
@@ -74,7 +73,6 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
       </a>
     </td>
   </tr>
-</table>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Krushi24112002&layout=compact&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
