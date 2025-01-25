@@ -76,7 +76,7 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Krushi24112002&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Krushi24112002&layout=compact&theme=graywhite&hide_border=true&background=52fa5a,4dfcff,c64dff" alt="GitHub Streak" />
   </a>
 </div>
 
