@@ -21,6 +21,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...   -->
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Krushi24112002.Krushi24112002)
 <h1 align="center">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+KRUSHI+MONPARA!;&center=true&size=30&pause=300&duration=800&color=50f34e">
