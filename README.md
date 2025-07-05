@@ -35,8 +35,6 @@ Here are some ideas to get you started: -->
 
 I hold a B.E. in Computer Engineering from Gujarat Technological University. My passion lies in coding, particularly in Java and C#, along with a strong interest in Data Structures and Algorithms, which I utilize to solve complex problems effectively."
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/275/datas/original.gif" />
-
 - 🚀 Associate Software Engineer @ Thomson Reuters
 - 🎓 B.E. in Computer Engineering – GTU  
 - 🌱 Passionate about frontend, Backend, Cloud, and Problem Solving 
