@@ -35,9 +35,9 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/275/datas/original.gif" />
 
-- 🚀 Associate Software Engineer @ Thomson Reuters
-- 🎓 B.E. in Computer Engineering – GTU  
-- 🌱 Passionate about frontend, Backend, Cloud, and Problem Solving 
+- 👀 I Have Learn Complete Udacity Cloud Architect Using Microsoft Azure.Through Udacity Scholarship.
+- 🔭 I Have Learn Complete Udacity AWS Machine Learning Course.Through Udacity Scholarships. 
+- 🌱 I’m currently learning various Web Development Technology.
 - 🌱 I’m currently learning Data Structures And Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 
@@ -99,4 +99,8 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 
 <h1 align="center">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!;&center=true&size=30&pause=300&duration=800&color=50f34e">
+
+
+above is my github main page readme file
+how i create more very great look way.
    </h1>
