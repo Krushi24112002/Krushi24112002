@@ -22,9 +22,11 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...   -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=Krushi24112002.Krushi24112002)
+<br>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushi24112002" alt="Krushi24112002" /> </p>
+</br>
 <h1 align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+KRUSHI+MONPARA!;&center=true&size=30&pause=300&duration=800&color=50f34e">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+KRUSHI+MONPARA!;&center=true&size=30&pause=300&duration=800&color=50f34e">
 </h1>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Who Am I ....***
@@ -48,16 +50,31 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
-      <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/datadog.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
         
 <hr>
-<h2 align="center">🔥 Learnings 🔥</h2>
-<br>
-<p align="center">
-      <img src="https://skillicons.dev/icons?i=go,solidity,aws,kubernetes,googlecloud,tensorflow,flutter,electron,docker" />
-        </p>
-        <hr>
         
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Stats & Activity Graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; </h2>
 
