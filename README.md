@@ -86,11 +86,14 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 
 <hr>
 <h2 align="center"> 📫 Connect With Me  </h2>
-<div align="center">
-<a href="mailto:Krushimonpara24@gmail.com"><img align="center" title="Mail - Krushi Monpara" alt="Mail" height="28px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
-<a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank" ><img align="center" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" /></a>
-
-</div>
+<p align="center">
+  <a href="mailto:Krushimonpara24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/krushi-monpara-k24112002/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
 <hr>
 
 <h4 align="center">
@@ -99,8 +102,4 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 
 <h1 align="center">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!;&center=true&size=30&pause=300&duration=800&color=50f34e">
-
-
-above is my github main page readme file
-how i create more very great look way.
-   </h1>
+</h1>
