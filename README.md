@@ -33,6 +33,8 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular" />
+  <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" alt="npm" />
+  <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs" />
 
   <!-- Backend -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
