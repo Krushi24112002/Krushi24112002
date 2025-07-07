@@ -23,7 +23,6 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 
 <hr>
 <h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
-
 <p align="center">
   <!-- Frontend -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
@@ -62,10 +61,9 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" />
 </p>
 <hr>
-
-
         
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Stats & Activity Graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; </h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Stats & Activity Graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+</h2>
 
 <table>
   <tr>
@@ -89,7 +87,6 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 ![Krushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krushi24112002&theme=redical)
 
 </p>
-
 <hr>
 <h2 align="center"> 📫 Connect With Me  </h2>
 <p align="center">
@@ -105,7 +102,6 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
 <h4 align="center">
   <a href="https://github.com/krushi24112002?tab=repositories" title="Show Repositories">🔎 Show More Repository 🔍</a>
 </h4>
-
 <h1 align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!;&center=true&size=30&pause=300&duration=800&color=50f34e">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!;&center=true&size=30&pause=300&duration=800&color=50f34e">
 </h1>
