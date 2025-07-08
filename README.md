@@ -56,6 +56,7 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
   <!-- IDE & Terminal -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal" />
+  <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git" />
 
   <!-- Cloud -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" />
