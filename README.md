@@ -34,30 +34,25 @@ I hold a B.E. in Computer Engineering from Gujarat Technological University. My 
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" alt="npm" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs" />
-
   <!-- Backend -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET" />
-
   <!-- Databases -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" />
-
   <!-- Tools & DevOps -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" alt="Postman" />
   <img height="40" width="40" style="margin: 6px;" src="https://cdn.worldvectorlogo.com/logos/datadog.svg" alt="Datadog">
-
   <!-- IDE & Terminal -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal" />
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git" />
-
   <!-- Cloud -->
   <img height="40" width="40" style="margin: 6px;" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" />
 </p>
